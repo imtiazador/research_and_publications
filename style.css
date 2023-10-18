@@ -6,9 +6,9 @@ body .publications {
 }
 .scroll-bar {
   background-color: #f8f3fe;
-  max-height: 300px; /* Set a maximum height for the div */
-  overflow-y: auto; /* Enable vertical scrollbar */
-  padding: 10px; /* Add some padding for better visual */
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 10px;
 }
 .publications {
   width: 800px;
