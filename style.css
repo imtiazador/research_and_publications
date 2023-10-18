@@ -1,0 +1,32 @@
+body .publications {
+  font-family: "Roboto", sans-serif;
+}
+.author {
+  color: #a166f5;
+}
+.scroll-bar {
+  background-color: #f8f3fe;
+  max-height: 300px; /* Set a maximum height for the div */
+  overflow-y: auto; /* Enable vertical scrollbar */
+  padding: 10px; /* Add some padding for better visual */
+}
+.publications {
+  width: 800px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.pub-body {
+  padding: 10px;
+}
+.description {
+}
+hr {
+  width: 70%;
+}
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(transparent, #a166f6);
+  border-radius: 6px;
+}
